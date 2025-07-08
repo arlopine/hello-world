@@ -1,0 +1,10 @@
+"Hello, World!" is a simple computer program that outputs or displays the message "Hello, World!"
+
+Introduction to syntax:
+"Hello, World!" showcases the basic syntax of a programming language, like how to write a statement that outputs text. 
+
+Basic test:
+It verifies that the development environment is set up correctly and that the code can be compiled or interpreted and executed. 
+  
+Rite of passage:
+It's a tradition in the programming community, marking the beginning of a programmer's journey with a new language
